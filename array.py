@@ -1,4 +1,4 @@
-array = ["Peru", 'Mexico', 'Francia', "Alemania", "Brazil", "Colombia"]
+array = ["Peru", 'Mexico', 'Francia', "Alemania", "Brazil", "Colombia", 'Chile']
 index = array.index('Mexico')
 array.append("Argentina")
 array.insert(2, "Bolivia")
