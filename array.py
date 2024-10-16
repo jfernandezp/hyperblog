@@ -8,5 +8,6 @@ array.extend('Uruguay')
 array.reverse()
 array.sort()
 print(index)
+print(array)
 for i in array:
     print(i)
